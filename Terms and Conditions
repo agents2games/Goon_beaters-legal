@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms & Conditions - Goon Beaters</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            max-width: 800px;
+            padding: 0 10px;
+            color: #333;
+        }
+        h1, h2 {
+            color: #222;
+        }
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms & Conditions</h1>
+    <p>These terms and conditions apply to the <strong>Goon Beaters</strong> app (hereby referred to as "Application") for mobile devices, created by <strong>Agents Games</strong> (hereby referred to as "Service Provider") as an Ad Supported service.</p>
+
+    <p>By downloading or using the Application, you automatically agree to the following terms. Please read carefully before using the Application.</p>
+
+    <h2>Intellectual Property</h2>
+    <p>Unauthorized copying, modification, or use of the Application, any part of the Application, or our trademarks is strictly prohibited. Attempts to extract source code, translate the Application, or create derivative versions are not allowed. All intellectual property rights remain the property of the Service Provider.</p>
+
+    <h2>Gameplay Mechanics & Character Attributes</h2>
+    <p>The Application includes fictional characters with varying attributes, abilities, and statistics (including speed, strength, and special abilities). These differences are designed solely for entertainment, balance, progression, and variety within gameplay.</p>
+    <p>All characters are fictional and do not represent real individuals or groups. Any perceived similarity is coincidental. Gameplay differences should not be interpreted as real-world comparisons or judgments.</p>
+
+    <h2>Application Updates & Service Changes</h2>
+    <p>The Service Provider may modify the Application or charge for services at any time, and will communicate any charges clearly. Updates may be required to continue using the Application, and the Service Provider may cease providing the Application without notice. Upon termination, your rights to use the Application end, and you must stop using it and delete it if necessary.</p>
+
+    <h2>Data & Security</h2>
+    <p>The Application stores and processes personal data you provide to the Service Provider. You are responsible for your device’s security and access to the Application. Jailbreaking or rooting your device is strongly discouraged, as it can expose your device to malware and may prevent the Application from functioning properly.</p>
+
+    <h2>Third-Party Services</h2>
+    <p>The Application uses third-party services, each with their own terms and conditions:</p>
+    <ul>
+        <li><a href="https://play.google.com/about/play-terms/" target="_blank">Google Play Services</a></li>
+        <li><a href="https://policies.google.com/terms" target="_blank">AdMob</a></li>
+        <li><a href="https://unity.com/legal/terms-of-service" target="_blank">Unity</a></li>
+    </ul>
+
+    <h2>Responsibility & Usage</h2>
+    <p>Some features require an internet connection (Wi-Fi or mobile data). The Service Provider is not responsible if the Application does not function fully due to network limitations, data limits, or device issues such as battery drain.</p>
+    <p>The Service Provider relies on third parties for certain information and assumes no liability for loss resulting from using this information.</p>
+    <p>By using the Application outside your home network, you may incur data charges. It is your responsibility to follow your mobile provider’s terms. If you are not the bill payer, you confirm you have permission to use the device.</p>
+
+    <h2>Changes to These Terms</h2>
+    <p>The Service Provider may update these Terms and Conditions periodically. Continued use of the Application constitutes acceptance of any changes.</p>
+
+    <h2>Effective Date</h2>
+    <p>These terms and conditions are effective as of <strong>2026-02-01</strong>.</p>
+
+    <h2>Contact Us</h2>
+    <p>For questions or suggestions about these Terms and Conditions, contact the Service Provider at <a href="mailto:agents2games@gmail.com">agents2games@gmail.com</a>.</p>
+</body>
+</html>
